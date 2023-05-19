@@ -17,8 +17,8 @@ body{
     padding: 10px 30px;
     
     color:white;
-    min-width: 50vw;
-    min-height: 50vh;
+    min-width: 80vw;
+    min-height: 80vh;
     display: flex;
     justify-content: center;
     font-size: 1rem;
